@@ -10,7 +10,7 @@ This project analyzes customer transactions to segment users based on RFM analys
 - Business insights
 
 ## Tech Stack
-Python, Pandas, Scikit-learn, Matplotlib, Seaborn
+Python, Pandas, (K-means) Scikit-learn, Matplotlib, Seaborn
 
 ## Output
 - Customer clusters
